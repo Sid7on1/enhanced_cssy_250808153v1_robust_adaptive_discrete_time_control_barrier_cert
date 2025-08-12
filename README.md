@@ -1,0 +1,2 @@
+# enhanced_cssy_250808153v1_robust_adaptive_discrete_time_control_barrier_cert
+AI-Generated Project: enhanced_cs.SY_2508.08153v1_Robust_Adaptive_Discrete_Time_Control_Barrier_Cert - Created by WATCHDOG Multi-Agent System
